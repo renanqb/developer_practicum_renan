@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "developer_practicum_renan", "developer_practicum_renan\developer_practicum_renan.csproj", "{A5992822-C8A7-4806-9B9C-D533F78103BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5992822-C8A7-4806-9B9C-D533F78103BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5992822-C8A7-4806-9B9C-D533F78103BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5992822-C8A7-4806-9B9C-D533F78103BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5992822-C8A7-4806-9B9C-D533F78103BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B87B111-50DD-41EF-A18A-A45407FF74F4}
+	EndGlobalSection
+EndGlobal
