@@ -42,11 +42,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\DishService.cs" />
+    <Compile Include="Business\IDishService.cs" />
+    <Compile Include="Data\DishContext.cs" />
+    <Compile Include="Model\DishComparable.cs" />
+    <Compile Include="Model\DishModel.cs" />
+    <Compile Include="Model\DishModelContainer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
